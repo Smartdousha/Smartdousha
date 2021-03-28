@@ -1,7 +1,7 @@
 ### Hi there is Smartdousha👋
 - ⚡ Contact me: Tencent QQ:2446206510
 - 🌱 I’m currently learning Java
-- 😄 My Blog Url is smartdousha.github.io
+- 😄 My Blog Url is [Click Here](https://smartdousha.github.io/)
 
 <!--
 **Smartdousha/Smartdousha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
